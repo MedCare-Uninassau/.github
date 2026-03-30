@@ -1,9 +1,9 @@
-# 🏥 MedCare
+# 🏥 ViverBem
 
-Bem-vindos à organização do projeto **MedCare**! Este é um projeto acadêmico desenvolvido por estudantes de Ciência da Computação da Universidade Maurício de Nassau (Recife/PE).
+Bem-vindos à organização do projeto **ViverBem**! Este é um projeto acadêmico desenvolvido por estudantes de Ciência da Computação da Universidade Maurício de Nassau (Recife/PE).
 
 ## 🚀 Sobre o Projeto
-O MedCare  é um aplicativo mobile multiplataforma (Android e iOS) que utiliza a câmera do smartphone para identificar medicamentos através de Inteligência Artificial. 
+O ViverBem  é um aplicativo mobile multiplataforma (Android e iOS) que utiliza a câmera do smartphone para identificar medicamentos através de Inteligência Artificial. 
 O aplicativo funciona de forma integrada com um backend em nuvem que gerencia os dados do usuário, processa as imagens e armazena o histórico de medicamentos e doses.
 
 Funcionalidades Principais:
