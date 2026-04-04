@@ -1,4 +1,4 @@
-# 🏥 ViverBem: Inovação e Acessibilidade na Saúde
+# 🏥 ViverBem: Educação, Inovação e Acessibilidade na Saúde
 
 > **Solução inteligente para identificação e gestão de medicamentos voltada à terceira idade.**
 
@@ -36,27 +36,18 @@ A dificuldade na leitura de bulas com letras pequenas, o esquecimento de horári
 
 ---
 
-## 🏗️ Arquitetura do Sistema (Visão Geral)
-
-1.  **Frontend:** Captura a imagem e gerencia o estado local de alarmes.
-2.  **API Gateway (Node.js):** Autentica usuários e orquestra as requisições.
-3.  **Processamento (Python):** Módulo especializado em tratar imagens antes do envio para a IA.
-4.  **Database:** Armazenamento seguro de histórico médico e contatos de emergência.
-
----
-
 ## 👥 Time de Desenvolvimento
 
 | Integrante | Especialidade | GitHub |
 | :--- | :--- | :--- |
-| **Marlon Torres** | Data Analysis & Backend | [@marlonporto](https://github.com/marlonporto) |
-| **Nivaldo Arruda** | Fullstack Developer | [GitHub](https://github.com/) |
-| **Kaian Guthierry** | Software Engineer | [GitHub](https://github.com/) |
-| **Pedro Cavalcanti** | Frontend & UI | [GitHub](https://github.com/) |
-| **Thayna Queiroz** | UX/UI Design | [GitHub](https://github.com/) |
-| **João Borges** | Backend Engineer | [GitHub](https://github.com/) |
-| **Yuri Gabriel** | Quality Assurance | [GitHub](https://github.com/) |
-| **Marcio Costa** | Mobile Developer | [GitHub](https://github.com/) |
+| **Marlon Torres** | Data Analysis & DevOps | [@marlonportotorres4](https://github.com/marlonporto) |
+| **Nivaldo Arruda** | Fullstack Developer | [@N1VV4](https://github.com/N1VV4) |
+| **Kaian Guthierry** | Fullstack Developer | [@kkaian](https://github.com/kkaian) |
+| **Pedro Cavalcanti** | Frontend & UI | [@pedroutopia](https://github.com/pedroutopia ) |
+| **Yuri Gabriel** | Backend Developer | [@yuri110501](https://github.com/yuri110501) |
+| **João Borges** | UI/UX Design | [@joaoborgesjvb](https://github.com/joaoborgesjvb) |
+| **Thayna Queiroz** | Frontend Developer | [@thay180805](https://github.com/thay180805) |
+| **Marcio Costa** | Backend Developer | [@mcosta1206](https://github.com/mcosta1206) |
 
 ---
 
