@@ -16,11 +16,15 @@ Funcionalidades Principais:
 * Acessibilidade: alto contraste, fontes ampliadas, leitura por voz
 * Cadastro de contato de emergência
 
-Nossa missão é entregar uma interface moderna, rápida e funcional para [público-alvo].
+O público-alvo primário são pessoas idosas (60 anos ou mais) que fazem uso regular de medicamentos e necessitam de auxílio para identificação e gerenciamento de horários. 
+
+O público secundário inclui cuidadores e familiares que acompanham o tratamento medicamentoso de idosos.
 
 ## 🛠️ Stack Tecnológica
 Para garantir performance e tipagem segura, estamos utilizando:
 * **Frontend:** React + TypeScript
+* **Backend:** Node.Js + Python
+* **IA:** Google Vision AI
 * **Estilização:** Tailwind CSS
 * **Roteamento:** React Router
 * **Design:** Figma
@@ -29,11 +33,11 @@ Para garantir performance e tipagem segura, estamos utilizando:
 * Marlon Torres
 * Nivaldo Arruda 
 * Kaian Guthierry
-* Pedro Peu
+* Pedro Cavalcanti
 * Thayna Queiroz
-* João Uber
-* Yuri Valorant
-* Marcio Trufas
+* João Borges
+* Yuri Gabriel
+* Marcio Costa
 
 ---
 *Este projeto é para fins estritamente acadêmicos - Uninassau 2026.*
