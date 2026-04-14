@@ -29,7 +29,7 @@ A dificuldade na leitura de bulas com letras pequenas, o esquecimento de horári
 | Camada | Tecnologia | Descrição |
 | :--- | :--- | :--- |
 | **Mobile** | `React Native + TypeScript` | App multiplataforma (Android/iOS) |
-| **Backend** | `Node.js + Python` | API Rest e processamento de imagem |
+| **Backend** | `Node.js` | API Rest e processamento de imagem |
 | **IA** | `Google Vision AI` | OCR e reconhecimento de objetos |
 | **Estilização** | `Tailwind CSS (NativeWind)` | Design responsivo e utilitário |
 | **Design** | `Figma` | Prototipagem de alta fidelidade |
